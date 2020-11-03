@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/teams/static/css/main.5f361e03.chunk.css",
+    "main.js": "/teams/static/js/main.8b58de3f.chunk.js",
+    "main.js.map": "/teams/static/js/main.8b58de3f.chunk.js.map",
+    "runtime-main.js": "/teams/static/js/runtime-main.01b0981a.js",
+    "runtime-main.js.map": "/teams/static/js/runtime-main.01b0981a.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/teams/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.241b606b.chunk.js": "/teams/static/js/2.241b606b.chunk.js",
+    "static/js/2.241b606b.chunk.js.map": "/teams/static/js/2.241b606b.chunk.js.map",
+    "index.html": "/teams/index.html",
+    "precache-manifest.e85b3467b77bbf95eca7fd5a9791c3ea.js": "/teams/precache-manifest.e85b3467b77bbf95eca7fd5a9791c3ea.js",
+    "service-worker.js": "/teams/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/teams/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/teams/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.241b606b.chunk.js.LICENSE.txt": "/teams/static/js/2.241b606b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01b0981a.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.241b606b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8b58de3f.chunk.js"
+  ]
+}
